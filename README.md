@@ -1,4 +1,4 @@
-<img align="left" width="350" height="350" alt="Dani Akash" src="https://user-images.githubusercontent.com/23728702/126904831-6e4768f2-cf5e-4448-be2f-0049ef252058.png"/>
+<img align="left" width="250" height="250" alt="Dani Akash" src="https://user-images.githubusercontent.com/23728702/126904831-6e4768f2-cf5e-4448-be2f-0049ef252058.png"/>
 
 
 ### I'm [Gabriel Emerich][homepage]
